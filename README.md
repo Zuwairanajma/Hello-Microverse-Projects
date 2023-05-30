@@ -1,23 +1,27 @@
 # Hello-Microverse-Projects
-logoZ.png
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-🙏 Acknowledgements
-📝 License
+![logo](logoZ.png)
+
+
+1. 📗 Table of Contents
+2. 📖 About the Project
+3. 🛠 Built With
+4. Tech Stack
+5. Key Features
+6. 🚀 Live Demo
+7. 💻 Getting Started
+8. Setup
+9. Prerequisites
+10. Install
+11. Usage
+12. Run tests
+13. Deployment
+14. 👥 Authors
+15. 🔭 Future Features
+16. 🤝 Contributing
+17. 🙏 Acknowledgements
+18. 📝 License
+
+
 📖 [Hello-Microverse-Project]
 Hello-Microverse-Project is a project used to test the ability of new Micronauts ability to use the standard microverse github workflow, linters and Readme.md.
 
