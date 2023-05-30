@@ -1,5 +1,5 @@
 # Hello-Microverse-Projects
-logo
+logoZ.png
 📗 Table of Contents
 📖 About the Project
 🛠 Built With
