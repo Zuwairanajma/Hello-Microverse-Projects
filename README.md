@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -97,6 +96,7 @@ Installations required to run this project:
 
 You can use this project by cloning it to your folder and changing index.html and styles.css files.
 
+
 ### Run tests
 
 To run tests, run the following commands:
@@ -154,5 +154,7 @@ I would like to  thank my coding partners for helping me through this project an
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
