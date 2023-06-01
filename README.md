@@ -96,6 +96,7 @@ Installations required to run this project:
 
 You can use this project by cloning it to your folder and changing index.html and styles.css files.
 
+
 ### Run tests
 
 To run tests, run the following commands:
@@ -156,3 +157,4 @@ This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
